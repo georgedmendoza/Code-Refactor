@@ -7,3 +7,9 @@ Refactor the code to make with more accessible while maintaining the full functi
 This application can be found at the following links.
 
 ADD DEPLOYED LINK HERE
+
+## Usage 
+Below is a screenshot of the full website and the resources it offers. This image will give you an overview of the insightful information users can have access to.  
+
+![screenshot](Develop/assets/images/horiseon-overview.png)
+

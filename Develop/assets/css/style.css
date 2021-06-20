@@ -1,14 +1,17 @@
+/*|| setting universal  selctors */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*|| general styles */
 body {
     background-color: 
     #d9dcd6;
 }
 
+/*|| beggining of header & subelement edits */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,18 +43,20 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    
 }
+/*|| end of header & subelement edits */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*|| general styles */
 p {
     font-size: 16px;
 }
 
+/*|| insertion of hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,14 +66,14 @@ p {
     background-position: center;
 }
 
-
+/*|| beggening of left section customization */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.section {
+.steps {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -77,7 +82,7 @@ p {
     color: #ffffff;
 }
 
-.section img {
+.steps img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
@@ -87,11 +92,13 @@ p {
     float: right;
 }
 
-.section h2 {
+.steps h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*|| end of left section customization */
 
+/*|| beginning of right section customization */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -122,7 +129,9 @@ p {
 .add p{
     margin-bottom: 36px;
 }
+/*|| end of right section customization */
 
+/*|| footer general style */
 .footer {
     padding: 30px;
     clear: both;
