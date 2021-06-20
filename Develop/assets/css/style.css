@@ -119,6 +119,10 @@ p {
     max-width: 150px;
 }
 
+.add p{
+    margin-bottom: 36px;
+}
+
 .footer {
     padding: 30px;
     clear: both;
